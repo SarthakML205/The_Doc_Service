@@ -1,0 +1,251 @@
+Diseases,Symptoms,Doctor Specialisation,Doctor Name,Hospital/Clinic,Experience,Rating
+Pneumonia,Cough,Medical Oncologist,Prof. Dr. Suresh H. Advani," Jaslok Hospital, Mumbai",43,8
+Pneumonia,Chest pain,Interventional Cardiologist,Dr. Ashok Seth," Fortis Escorts Heart Institute, New Delhi",38,8
+Pneumonia,Confusion or changes in mental awareness,Neurosurgeon,Dr. Sandeep Vaishya," AMRI Hospitals, Saltlake",55,6
+Pneumonia,Fatigue(extreme tiredness),Orthopaedic and Joint Replacement Surgeon,Dr IPS Oberoi," Jaslok Hospital, Mumbai",51,2
+Pneumonia,Fever,Liver Transplant Surgeon,Prof. Dr. Mohamed Rela," Dr. Rela Institute and Medical Centre, Chennai",31,9
+Pneumonia,Sweating,Cardiac Surgeon,Dr. Naresh Trehan," Narayana Multispeciality Hospital, Bangalore",40,10
+Pneumonia,Chills(a feeling of coldness),Urologist and Andrologist,Dr. R.C.M Kaza," Max Super Speciality hospital, Patparganj, New Delhi",36,9
+Pneumonia,Lower than normal body temperature,Surgical Oncologist,Dr Harit Chaturvedi," Max Super Speciality Hospital, Saket, New Delhi",25,7
+Pneumonia,Nausea and vomiting,Cardiac Surgeon,Dr. Ajay Kaul," Max Super Speciality Hospital, Vaishali",36,2
+Pneumonia,Shortness of breath,Orthopaedic and Joint Replacement Surgeon,Dr. Ashok Rajgopal," Fortis Hospital, Noida",36,3
+Pneumonia1,Cough,Surgical Oncologist,Dr. Kapil Kumar," Fortis Hospital, Bangalore (Bannerghatta Road)",28,5
+Pneumonia1,Chest pain,Neurosurgeon,Dr Aditya Gupta , Aster Medcity Kochi,60,1
+Pneumonia1,Confusion or changes in mental awareness,Cardiac Surgeon,Dr Devi Prasad Shetty ," Narayana Multispeciality Hospital, Bangalore",34,5
+Pneumonia1,Fatigue(extreme tiredness),Medical Gastroenterologist,Dr. Apurba K Pal," Ruby General Hospital, Kolkata",44,6
+Pneumonia1,Fever,Orthopaedic and Joint Replacement Surgeon,Dr. Kunal Sengupta,Arthoscopy and Sports Medicine,40,5
+Pneumonia1,Sweating,Neurosurgeon,Dr. V. P. Singh," Medanta - The Medicity, Gurgaon",30,8
+Pneumonia1,Chills(a feeling of coldness),Cardiac Surgeon,Dr Sandeep Attawar," Global Hospitals, Chennai",22,10
+Pneumonia1,Lower than normal body temperature,Hematologist,Dr. Ashok Vaid,", Medical Oncologist",32,5
+Pneumonia1,Nausea and vomiting,Orthopaedic and Joint Replacement Surgeon,Dr. Pradeep Sharma,Hip Surgery,38,8
+Pneumonia1,Shortness of breath,Cardiac Surgeon,Dr  Y K Mishra ,", Spine Surgeon",32,10
+Dengue fever,Headache,General Surgeon,Dr. P S Binu, Aster Medcity Kochi,40,6
+Dengue fever,Joint pain,Pediatric Cardiac Surgeon,Dr. S Radhakrishnan," Fortis Flt. Lt. Rajan Dhall Hospital, Vasant Kunj, New Delhi",34,10
+Dengue fever,Muscle pain,Orthopaedic and Joint Replacement Surgeon,Dr. Naveen Talwar,Arthoscopy and Sports Medicine,30,4
+Dengue fever,Nausea and vomiting,Surgical Oncologist,Dr. Tapti Sen, Medica Superspecialty Hospital,31,9
+Dengue fever,Pain behind the eyes,Orthopaedic and Joint Replacement Surgeon,Dr. Vinay Gupta, Saroj Super Speciality Hospital,40,1
+Dengue fever,Swollen glands,General Surgeon,Dr. P.K. Gambhir, Saroj Super Speciality Hospital,43,4
+Dengue fever,Rash(a lot of small red spots on the skin),Orthopaedic and Joint Replacement Surgeon,Dr. Basanta Behera," AMRI Hospitals, Bhubaneswar",44,4
+Dengue fever,Fatigue(extreme tiredness),General Surgeon,Dr. H.S. Raswan," Amandeep Hospital, Pathankot",40,5
+Dengue fever,Persistent vomiting,General Surgeon,Dr. Nikhil Baljekar," Apollo Spectra Hospital, Mumbai",34,7
+Malaria,Fever,Gynaecologist and Obstetrician,Dr. Sivakami Gopinath,", IVF Specialist",42,1
+Malaria,Chills(a feeling of coldness),Gynaecologist and Obstetrician,Dr. P M Gopinath ,", Infertility Specialist",55,4
+Malaria,Headache,Orthopaedic and Joint Replacement Surgeon,Dr. Gyan Sagar Tucker," Max Super Speciality Hospital, Saket, New Delhi",27,6
+Malaria,Nausea and vomiting,General Surgeon,Dr. Manjulata Anchalia," Apollo Hospitals, Ahmedabad",37,9
+Malaria,Fatigue(extreme tiredness),Pediatric Cardiologist,Dr. Krishna S Iyer," Fortis Escorts Heart Institute, New Delhi",30,5
+Malaria,Muscle pain,Interventional Cardiologist,Dr. Nikhil Kumar," Ruby General Hospital, Kolkata",26,4
+Malaria,Sweating,Interventional Cardiologist,Dr. K.K.Talwar," Max Superspecialty Hospital, Mohali",41,2
+Malaria,Chest pain,Cardiac Surgeon,Dr. Col. M Sitaram," Apollo Hospital, Secunderabad",37,7
+Malaria,Cough,Cardiac Surgeon,Dr. Paul Ravindran Ponraj ," Vijaya Hospital, Chennai",40,9
+Typhoid fever,Fever,Gynaecologist and Obstetrician,Dr Laila Dave," Apollo Spectra Hospital, Mumbai",34,1
+Typhoid fever,Headache,Cosmetic Surgeon,Dr. Pradeep  Sen,Parul sevashram Vadodara,40,4
+Typhoid fever,Weakness,Surgical Oncologist,Dr. Aruna Chandrasekhran," Global Hospitals, Chennai",42,4
+Typhoid fever,Fatigue(extreme tiredness),Surgical Oncologist,Dr Rajesh Mistry ," Kokilaben Dhirubhai Ambani Hospital, Mumbai",25,1
+Typhoid fever,Muscle pain,Laparoscopic Surgeon,Dr. Kumar Palaniappan," Dr. Rela Institute and Medical Centre, Chennai",22,3
+Typhoid fever,Sweating,Oncology,Dr. Meghal Sanghavi," New Age Wockhardt Hospital, Mumbai",27,3
+Typhoid fever,Dry cough,Medical Oncologist,Dr. Vinod Raina," Fortis Memorial Research Institute, Gurgaon",37,4
+Typhoid fever,Loss of appetite and weight loss,Medical Gastroenterologist,Dr. Gaurav Mehta," Kokilaben Dhirubhai Ambani Hospital, Mumbai",26,7
+Typhoid fever,Diarrhea or constipation,General Surgeon,Dr. Debojit  Kumar Roy,Advanced Laparoscopic,33,3
+Typhoid fever,Extremely swollen abdomen,Oncology,Dr. Shashikant Limbachiya," Narayana Multispeciality Hospital, Ahmedabad",36,8
+Typhoid fever,Rash(a lot of small red spots on the skin),General Surgeon,Dr. Muneendra Gupta," Manipal Hospitals Dwarka, Delhi",42,5
+Tuberculosis,Coughing up blood,Radiation Oncologist,Dr. S Hukku, Saroj Super Speciality Hospital,35,4
+Tuberculosis,Coughing that lasts three or more weeks,Orthopaedic and Joint Replacement Surgeon,Dr. U.K. Sadhoo, Aster Medcity Kochi,38,9
+Tuberculosis,Chest pain,Orthopaedic and Joint Replacement Surgeon,Dr. Rakesh Mahajan,Arthoscopy and Sports Medicine,43,8
+Tuberculosis,Unintentional weight loss,Endocrinologist,Dr. Ambrish Mithal," Max Super Specialty Hospital, Gurgaon",33,1
+Tuberculosis,Fever,Cardiac Surgeon,Dr Nandkishore Kapadia ," Kokilaben Dhirubhai Ambani Hospital, Mumbai",27,5
+Tuberculosis,Fatigue(extreme tiredness),Interventional Radiologist,Dr. Chander Mohan," BLK Super Speciality Hospital, New Delhi",26,2
+Tuberculosis,Chills(a feeling of coldness),ENT,Dr. Vineeth Viswam, Aster Medcity Kochi,47,2
+Tuberculosis,Night sweats,Laparoscopic Surgeon,Dr. Nitish Kr Das," Medica North Bengal Clinic, Siliguri",30,3
+Tuberculosis,Loss of appetite,Gynaecologist and Obstetrician,Dr.G. Usha Reddy ,", IVF Specialist",31,2
+Autoimmune hepatitis,Fatigue(extreme tiredness),Endourologist,Dr. Shailesh Raina  ,", Urologist and Andrologist",42,4
+Autoimmune hepatitis,Abdominal discomfort,General Surgeon,Dr. Saugata Deb," Ruby General Hospital, Kolkata",32,2
+Autoimmune hepatitis,Yellowing of the skin and whites of the eyes,Gynaecologist and Obstetrician,Dr. (Col.) Sudip Basu,", Infertility Specialist",48,3
+Autoimmune hepatitis,An enlarged liver,Medical Gastroenterologist,Dr. Satya Gopal Maity," Ruby General Hospital, Kolkata",41,10
+Autoimmune hepatitis,Joint pain,Ophthalmologist,Dr. Anwar Mansuri," Centre for Sight Eye Hospital, Navrangpura, Ahmedabad",40,9
+Autoimmune hepatitis,Loss of menstrual periods,,Dr. T. Krishan Thusoo," Artemis Hospital, Gurgaon",20,6
+Autoimmune hepatitis,Rash(a lot of small red spots on the skin),Oncology,Dr. Rajender Kumar," Max Super Speciality Hospital, Saket, New Delhi",49,6
+Autoimmune hepatitis,Abnormal blood vessels on the skin,Interventional Radiologist,Dr. Arvind Nanda ," BLK Super Speciality Hospital, New Delhi",51,2
+Brucellosis,Fever,Interventional Cardiologist,Dr. Neeraj Bhalla," BLK Super Speciality Hospital, New Delhi",35,1
+Brucellosis,Chills(a feeling of coldness),Interventional Radiologist,Dr. Tejas P. Dharia," Nanavati Super Specialty Hospital, Mumbai",44,1
+Brucellosis,Loss of appetite,Interventional Cardiologist,Dr. K. K. Saxena, Sparsh Hospital (Yeshwanthpur) Patna,35,4
+Brucellosis,Sweating,Urologist,Dr Rajinder Yadav ," Fortis Hospital, Shalimar Bagh, New Delhi",43,5
+Brucellosis,Weakness,Neurologist,Dr. Atul Prasad," BLK Super Speciality Hospital, New Delhi",26,8
+Brucellosis,Fatigue(extreme tiredness),ENT Surgeon,Dr. Anoop Raj," Nayati Medicity, Mathura",41,6
+Brucellosis,Muscle pain,Radiation Oncologist,Dr. Bidhu K Mohanti,DAV Indore,32,8
+Brucellosis,Joint pain,Vascular Surgeon,Dr. Tarun Grover," Medanta - The Medicity, Gurgaon",21,4
+Brucellosis,Back pain,Dermatologist,Dr Ramji Gupta ," BLK Super Speciality Hospital, New Delhi",42,5
+Brucellosis,Headache,Neonatologist,Dr Anjan Bhattacharya ," Apollo Gleneagles Hospital, Kolkata",27,6
+Influenza (flu),Fever,Medical Gastroenterologist,Dr Rakesh Tondon ," Paras Hospitals, Gurgaon",51,1
+Influenza (flu),Sweating,Medical Gastroenterologist,Dr. (Col.) V K Gupta," Max Super Speciality hospital, Shalimar Bagh, New Delhi",33,3
+Influenza (flu),Chills(a feeling of coldness),Urologist,Dr. Poonam Gulati," Batra Hospital & Medical Research Centre, New Delhi",21,7
+Influenza (flu),Headache,Medical Gastroenterologist,Dr. Pawan Rawal," Artemis Hospital, Gurgaon",24,5
+Influenza (flu),Dry cough,Surgical Gastroenterologist,Dr V. Baskaran," MIOT International, Chennai",43,9
+Influenza (flu),Weakness,Interventional Cardiologist,Dr. Sunil Kumar," Apollo Hospital, Hyderguda",37,7
+Influenza (flu),Persistent cough,Interventional Cardiologist,Dr. Arup Dasbiswas," Ruby General Hospital, Kolkata",45,2
+Influenza (flu),Fatigue(extreme tiredness),Interventional Cardiologist,Dr. Balbir Singh," Max Super Speciality Hospital, Saket, New Delhi",28,4
+Influenza (flu),Sore throat,Cardiac Surgeon,Dr. Ganesh K. Mani," Max Super Speciality Hospital, Saket, New Delhi",37,6
+Influenza (flu),Dry cough,Liver Transplant Surgeon,Dr. Arvinder Singh Soin," Medanta - The Medicity, Gurgaon",30,8
+Influenza (flu),Nasal congestion(blockage of the nasal passages),Interventional Cardiologist,Dr. P. K. Khanna," Sir Ganga Ram Hospital, New Delhi",20,10
+Ascariasis,Persistent cough,Medical Oncologist,Dr Hari Goyal,Bhoj Hospital Jabalpur,23,1
+Ascariasis,Shortness of breath,Ophthalmologist,Dr. Deependra V Singh,BBJ Hospital Kanpur,26,6
+Ascariasis,Nausea and vomiting,ENT Surgeon,Dr. R. Narendran," MIOT International, Chennai",29,10
+Ascariasis,Diarrhea or bloody stools,Medical Gastroenterologist,Dr Randhir Sud ," Medanta - The Medicity, Gurgaon",31,3
+Ascariasis,Wheezing(whistling sound during breathing),Laparoscopic Surgeon,Dr. Amitabha Ghosh," AMRI Hospital, Kolkata (Dhakuria)",27,9
+Ascariasis,Fatigue(extreme tiredness),Vascular Surgeon,Dr. Kumud Rai," Max Super Speciality Hospital, Saket, New Delhi",32,8
+Ascariasis,Weight loss,ENT Surgeon,Dr. Biswarup Mukherjee," AMRI Hospital, Kolkata (Dhakuria)",29,6
+Ascariasis,A worm in your vomit or stool,Pediatric Cardiologist,Dr. Nageswara Rao Koneti," Rainbow Children's Hospital, Hyderabad",26,10
+Chickenpox,Fever,Aesthetics and Plastic Surgeon,Dr. Vipul Nanda,schindhiya Hospital Gwalior,28,6
+Chickenpox,Loss of appetite,Interventional Cardiologist,Dr. Praveen Chandra," Medanta - The Medicity, Gurgaon",30,2
+Chickenpox,Headache,Pediatric Cardiologist,Dr. Viresh Mahajan,Advanced Lap Hospital Bipaas,22,10
+Chickenpox,Tiredness and a general feeling of being unwell,ENT Surgeon,Dr. A Muraleedharan," S. L. Raheja Hospital, Mumbai",37,2
+Chickenpox,Raised pink or red bumps (papules)-which break out over several days,Gynaecologist and Obstetrician,Dr. Alka Kriplani,", Infertility Specialist",29,6
+Chikungunya,Fever,Pediatric Cardiologist,Dr. Robert Coelho," MIOT International, Chennai",20,8
+Chikungunya,Joint pain,Neurosurgeon,Dr. A.K. Banerji," Medanta - The Medicity, Gurgaon",50,7
+Chikungunya,Muscle pain,Cardiac Surgeon,Dr. Arijit Datta," AMRI Hospital, Kolkata (Mukundapur)",21,3
+Chikungunya,Headache,Interventional Cardiologist,Dr. Uttam Kumar Saha ," AMRI Hospital, Kolkata (Mukundapur)",30,10
+Chikungunya,Nausea and vomiting,Interventional Cardiologist,Dr. (Col.) Manjinder Singh Sandhu," Artemis Hospital, Gurgaon",27,5
+Chikungunya,Rash(a lot of small red spots on the skin),Interventional Cardiologist,Dr. Rajneesh Kapoor," Medanta - The Medicity, Gurgaon",34,2
+Chikungunya,Sore throat,ENT Surgeon,Dr. W.V.B.S Ramalingam," BLK Super Speciality Hospital, New Delhi",35,1
+Chikungunya,Painful abdominal cramps,Radiation Oncologist,Dr. Tejinder Kataria," Medanta - The Medicity, Gurgaon",28,10
+Chikungunya,Cold fingers and toes,Gynaecologist and Obstetrician,Dr. Rama Joshi," Vijaya Hospital, Vadodra",26,4
+Chikungunya,Diarrhea or constipation,Spine Surgeon,Dr. Rajagopalan Krishnan," Indraprastha Apollo Hospital, New Delhi",24,9
+AIDS,Fever,Liver Transplant Surgeon,Dr. Anupam Saha,Global Hospital Mumbai,20,5
+AIDS,Headache,General Surgeon,Dr. Vinod Kumar Nigam," Max Super Specialty Hospital, Gurgaon",42,8
+AIDS,Muscle pain,Interventional Cardiologist,Dr Jamshed Dalal ," Kokilaben Dhirubhai Ambani Hospital, Mumbai",37,9
+AIDS,Joint pain,Infertility Specialist,Dr. Manish Banker ," Fortis Hospital, Mulund, Mumbai",34,7
+AIDS,Rash(a lot of small red spots on the skin),Medical Oncologist,Dr Rajesh Jindal , Fortis Hospital (Anandapur) Kolkata,23,2
+AIDS,Sore throat,Neurologist,Dr Rajiv Anand," BLK Super Speciality Hospital, New Delhi",35,2
+AIDS,Painful mouth sores,Cardiac Surgeon,Dr Bhaba Nanda Das," Indraprastha Apollo Hospital, New Delhi",36,10
+AIDS,Swollen lymph glands(mainly on the neck),Neurologist,Dr. Chandran Gnanamuthu," Fortis Hospital, Bangalore (Bannerghatta Road)",38,5
+AIDS,Fatigue(extreme tiredness),Interventional Cardiologist,Dr Manish Bansal," Medanta - The Medicity, Gurgaon",20,9
+AIDS,Diarrhea or constipation,Gynaecologist and Obstetrician,Dr. Suman Lal," Pace Hospital, Hyderabad",43,7
+AIDS,Weight loss,Urologist,Dr. Rajeev Sood,Shree ram ayodhya,34,7
+AIDS,Oral yeast infection,Neurosurgeon,Dr. Soundappan V,", Spine Surgeon",24,10
+Anemia,Fatigue(extreme tiredness),General Surgeon,Dr. Sushil Kumar Jain," Indraprastha Apollo Hospital, New Delhi",31,6
+Anemia,Weakness,Endocrinologist,Dr. Sundararajan Sridhar," MIOT International, Chennai",35,7
+Anemia,Pale or yellowish skin,Dermatologist,Dr. Gopi Krishna Maddali,ART Nagpur,30,3
+Anemia,Irregular heartbeats,Medical Oncologist,Dr (Col.) R Ranga Rao," Paras Hospitals, Gurgaon",30,4
+Anemia,Shortness of breath,Surgical Gastroenterologist,Dr. Shailendra Lalwani ,Liver Transplant Surgeon,30,4
+Anemia,Dizziness,Cardiac Surgeon,Dr. Srinath Vijayasekharan," MGM Healthcare, Chennai",21,1
+Anemia,Chest pain,Cardiac Surgeon,Dr. Utpal Shah," Apollo Hospitals, Ahmedabad",28,4
+Anemia,Cold hands and feet,Hand and Wrist Surgery,Dr Hemant Patankar,Aiims Raipur,34,1
+Anemia,Headache,General Surgeon,Dr. Jaydip Ray, Medica Superspecialty Hospital,34,4
+Anthrax,Nausea and vomiting,Neurosurgeon,Dr. L. N Tripathy, Medica Superspecialty Hospital,31,7
+Anthrax,Chest pain,Cardiac Surgeon,Dr. Mrinal Bandhu Das,Aiims bhopal,38,2
+Anthrax,Headache,Cardiac Surgeon,Dr. Subhankar Bhattacharya, Medica Superspecialty Hospital,35,5
+Anthrax,Loss of appetite,Cardiac Surgeon,Dr.  Nand K Panigrahi," Apollo Hospital, Vizag",31,2
+Anthrax,Fever,General Surgeon,Dr. T Narayana Rao," Apollo Hospital, Vizag",30,2
+Anthrax,Sore throat,General Surgeon,Dr. P.K. Bhardwaj, Saroj Super Speciality Hospital,34,1
+Anthrax,Difficulty  in swallowing,General Surgeon,Dr. A.K Rawat, Saroj Super Speciality Hospital,32,4
+Anthrax,Swollen neck,Advanced Laparoscopic,Dr. Saumitra Saha,Advanced Laparoscopic,39,10
+Anthrax,Shortness of breath,Cardiac Surgeon,Dr. Chandrabhanu Parija," AMRI Hospitals, Bhubaneswar",39,9
+Anthrax,Coughing up blood,General Surgeon,Dr. Saurajit Patnaik," AMRI Hospitals, Bhubaneswar",30,2
+Anthrax,Abdominal discomfort,General Surgeon,Dr. Jeyabaul R A," Apollo Specialty Hospitals, Vanagaram",30,3
+Diabetes,Increased thirst(feel thirsty),IVF Specialist,Dr. Archana Wani," Cloud Nine Hospital, Navi Mumbai",20,6
+Diabetes,Frequent urination,Interventional Cardiologist,Dr. G Kondal Rao," Apollo Hospital, Hyderguda",28,6
+Diabetes,Extreme hunger,Neurologist,Dr. R.V. Anand  ," Vijaya Hospital, Chennai",23,5
+Diabetes,Weight loss,Gynaecologist and Obstetrician,Dr. N S Saradha  ,", Infertility Specialist",40,1
+Diabetes,Fatigue(extreme tiredness),Interventional Cardiologist,Dr. Sumit Acharya," Ruby General Hospital, Kolkata",34,7
+Diabetes,Blurred vision,Urologist,Dr. Uttam Lodh," Ruby General Hospital, Kolkata",36,2
+Diabetes,Slow-healing sores,Neurosurgeon,Dr. Sandip Pal," Ruby General Hospital, Kolkata",31,10
+Diabetes,Frequent infections,Stem Cell Specialist,Dr. Santanu Basu ," Ruby General Hospital, Kolkata",34,9
+Diabetes,Irritation,Gynaecologist and Obstetrician,Dr Bikash Banarjee," Ruby General Hospital, Kolkata",30,6
+Diphtheria,Sore throat,Neurosurgeon,Dr. Rajan Shah," Nanavati Super Specialty Hospital, Mumbai",30,9
+Diphtheria,Swollen glands,Gynaecologist and Obstetrician,Dr Nupur Gupta," Fortis Memorial Research Institute, Gurgaon",30,7
+Diphtheria,Difficulty breathing or rapid breathing,Surgical Gastroenterologist,Dr. V. P. Bhalla,Colo-Rectal Surgeon,30,9
+Diphtheria,Nasal discharge(mucus comes out of nose),Interventional Radiologist,Dr. Rajesh Anthony," VPS Lakeshore Hospital, Kochi",13,8
+Diphtheria,Fever,Ophthalmologist,Dr Sudipto Pakrasi, Saroj Super Speciality Hospital,44,2
+Diphtheria,Chills(a feeling of coldness),Cardiac Surgeon,Dr. Surendra Nath Khanna," Fortis Escorts Heart Institute, New Delhi",25,1
+Diphtheria,Malaise(feeling of discomfort or illness),Liver Transplant Surgeon,Dr. Rakesh Gopal," VPS Lakeshore Hospital, Kochi",44,7
+Encephalitis,Headache,Medical Oncologist,Dr. Jyoti Wadhwa," Medanta - The Medicity, Gurgaon",32,7
+Encephalitis,Fever,Gynaecologist and Obstetrician,Dr. Anjila Aneja," Fortis Memorial Research Institute, Gurgaon",27,5
+Encephalitis,Muscle pain,Neurosurgeon,Dr Vipul Gupta ,Spine Surgeon,45,6
+Encephalitis,Joint pain,Interventional Cardiologist,Dr. Hemant Madan," Narayana Superspeciality Hospital, Gurgaon",21,9
+Encephalitis,Fatigue(extreme tiredness),Nephrologist,Dr. Tarun Kumar Saha," Apollo Hospital, Secunderabad",34,1
+Encephalitis,Weakness,Interventional Cardiologist, Dr. M Srinivasa Rao," Apollo Hospital, Hyderguda",30,2
+Encephalitis,Loss of sensation,Pediatric Cardiologist,Dr. Neville Solomon," Apollo Hospitals, Greams Road, Chennai",22,3
+Encephalitis,Problems with speech or hearing,Spine Surgeon,Dr. Vineesh Mathur," Medanta - The Medicity, Gurgaon",28,9
+Encephalitis,Loss of consciousness,General Surgeon,Dr. Raghunath K J," Apollo Hospitals, Greams Road, Chennai",27,6
+Encephalitis,Hallucinations,Orthopaedic and Joint Replacement Surgeon,Dr. S V Chandrasekhar Reddy,Hip Surgery,45,1
+Encephalitis,Nausea and vomiting,Cardiac Surgeon,Dr. Balram Airan," Desire Aesthetics Clinic, Chennai",40,1
+Encephalitis,Partial paralysis,Advanced Laparoscopic,Dr. Harish Kapila,Advanced Laparoscopic,47,4
+Encephalitis,Irritation,Ophthalmologist,Dr V C Parthasarathy,Glaucoma Surgeon,39,10
+Encephalitis,Poor feeding,Medical Gastroenterologist,Dr. Rajiv Khanna ," Pushpawati Singhania Research Institute, New Delhi",30,2
+Rabies,Fever,Cosmetic Surgeon,Dr. Rakesh K. Khazanchi," Medanta - The Medicity, Gurgaon",25,6
+Rabies,Headache,Orthopaedic and Joint Replacement Surgeon,Dr. Bhatiprollu S. Murthy," Max Super Speciality hospital, Patparganj, New Delhi",22,7
+Rabies,Nausea and vomiting,Cardiac Surgeon,Dr. Rajneesh Malhotra," Max Super Speciality Hospital, Saket, New Delhi",23,3
+Rabies,Agitation(increased tension),IVF Specialist,Dr. Indira Hinduja," Jaslok Hospital, Mumbai",46,6
+Rabies,Confusion,Medical Oncologist,Dr. Gurdeep Singh Sethi," Millennium Cancer Center, Gurgaon",30,10
+Rabies,Hyperactivity,General Surgeon,Dr. Darwin P," Apollo Specialty Hospitals, Vanagaram",30,10
+Rabies,Difficulty  in swallowing,physician,Dr. Ashutosh Shukla,Arthoscopy and Sports Medicine,22,4
+Rabies,Excessive salivation,Medical Gastroenterologist,Dr. Rakesh Aga," Max Super Specialty Hospital, Gurgaon",29,3
+Rabies,Fear of water,Endocrinologist,Dr. Rajendiran N," Apollo Hospitals, Greams Road, Chennai",41,8
+Rabies,Hallucinations,Interventional Cardiologist,Dr. Satish Mathew," Cloud Nine, Mumbai",49,8
+Rabies,Partial paralysis,Cardiac Surgeon,Dr. Vijay Shankar S," Apollo Hospitals, Greams Road, Chennai",30,8
+Smallpox,Fever,Ophthalmologist,Dr. Pratik Ranjan Sen,Cataract Surgeon,37,10
+Smallpox,Overall discomfort,Orthopaedic and Joint Replacement Surgeon,Dr. Krishnamoorthy K,Hip Surgery,49,10
+Smallpox,Headache,Surgical Gastroenterologist,Dr. Prasanna Kumar Reddy,Hepato-Pancreato-Biliary Surgeon,48,2
+Smallpox,Fatigue(extreme tiredness),Advanced Laparoscopic,Dr. Muffazal Lakdawala,Advanced Laparoscopic,52,8
+Smallpox,Back pain,Obesity and Bariatric Surgeon,Dr. Deep Goel,Advanced Laparoscopic,54,8
+Smallpox,Vomiting,physician,Dr. Mainak Malhotra," AMRI Hospital, Kolkata (Mukundapur)",42,9
+Tetanus,Stiffness in your jaw muscles,Gynaecologist and Obstetrician,Dr. Manjula Bagdi," Fortis Memorial Research Institute, Gurgaon",43,10
+Tetanus,Stiffness of your neck muscles,Orthopaedic and Joint Replacement Surgeon,Dr. Gopal Krishan Agrawal ,Arthoscopy and Sports Medicine,48,7
+Tetanus,Difficulty  in swallowing,Neurologist,Dr Sumit Singh ," Artemis Hospital, Gurgaon",49,5
+Tetanus,Fever,Nephrologist,Dr. Satish Chandra Chhabra," Max Super Speciality hospital, Patparganj, New Delhi",46,6
+Tetanus,Sweating,Surgical Oncologist,Dr. Sandeep Mehta," Fortis Hospital, Shalimar Bagh, New Delhi",32,3
+Tetanus,Elevated blood pressure,Pediatric Cardiologist,Dr. Savitri Shrivastava," Asian Institute of Medical Sciences, Faridabad",59,2
+Whooping cough,Runny nose,Neurosurgeon,Dr. Rana Patir,", Spine Surgeon",51,7
+Whooping cough,Nasal congestion(blockage of the nasal passages),Endocrinologist,Dr Boochandran T S," Apollo Hospitals, Greams Road, Chennai",26,9
+Whooping cough,Red and watery eyes,Urologist,Dr. Madhav H Kamat," Jaslok Hospital, Mumbai",36,9
+Whooping cough,Fever,Paediatric Neurologist,Dr Rakesh Kumar Jain," Cloud Nine, Mumbai",31,6
+Whooping cough,Cough,Interventional Cardiologist,Dr. V K Chopra," Max Super Speciality Hospital, Saket, New Delhi",37,2
+Whooping cough,Vomiting,Interventional Cardiologist,Dr. Aseem Dhall," Sir Ganga Ram Hospital, New Delhi",27,10
+Whooping cough,Fatigue(extreme tiredness),Gynaecologist and Obstetrician,Dr. Firuza Parikh," Jaslok Hospital, Mumbai",28,4
+Whooping cough,Red or blue face,Medical Oncologist,Dr. Sunil Kumar Gupta," Max Super Speciality Hospital, Saket, New Delhi",27,2
+Plague,Fever,Medical Oncologist,Dr. Sankar Srinivasan," Apollo Hospitals, Greams Road, Chennai",28,3
+Plague,Chills(a feeling of coldness),Orthopaedic and Joint Replacement Surgeon,Dr. Rajasekar P,Knee Surgery,38,9
+Plague,Headache,Surgical Oncologist,Dr. Jem Kalathil, Aster Medcity Kochi,25,5
+Plague,Fatigue(extreme tiredness),Nephrologist,Dr. Pranab Kumar Nandy, Medica Superspecialty Hospital,45,10
+Plague,Malaise(feeling of discomfort or illness),Pediatric Cardiac Surgeon,Dr. S. Ramesh," Cloudnine Hospital, Bangalore",34,6
+Plague,Muscle pain,Cardiac Surgeon,Dr. Dharma Rakshak Ayapati," Apollo Hospital, Secunderabad",30,8
+Plague,Weakness,Nephrologist,Dr. Dhakshina Murthy," Apollo Hospital, Hyderguda",30,8
+Plague,Chest pain,General Surgeon,Dr. P L Chary,Advanced Laparoscopic,34,5
+Plague,Vomiting,Interventional Cardiologist,Dr. K P Srihari Das," Manipal hospitals Life's On, Jayanagar",27,2
+Plague,Diarrhea or constipation,Cardiac Surgeon,Dr. Sunip Banerjee," Ruby General Hospital, Kolkata",28,8
+Plague,Bleeding from your mouth,Interventional Cardiologist,Dr. Plaban Mukherjee," Ruby General Hospital, Kolkata",30,7
+Plague,Difficulty breathing,General Surgeon,Dr. Zayed Ashok Rahman,Advanced Laparoscopic,26,6
+Plague,Nausea and vomiting,Urologist,Dr. Ranjan Kumar Dey," Ruby General Hospital, Kolkata",31,7
+Leukemia,Fever,Medical Gastroenterologist,Dr. Sabyasaachi Ray," Max Super Speciality hospital, Shalimar Bagh, New Delhi",26,3
+Leukemia,Chills(a feeling of coldness),Medical Gastroenterologist,Dr. Prabir Banerjee," Medanta - The Medicity, Gurgaon",32,1
+Leukemia,Weakness,Interventional Cardiologist,Dr. Anjan Dasgupta," Ruby General Hospital, Kolkata",30,1
+Leukemia,Persistent fatigue,Ophthalmologist,Dr. Rupal Shah,Glaucoma Surgeon,30,10
+Leukemia,Weight loss,Ophthalmologist,Dr. Neeraj Khunger,Cataract Surgeon,27,8
+Leukemia,An enlarged liver,Ophthalmologist,Dr. JB Singh," Centre for Sight Eye Hospital, Sector 29, Gurgaon",35,4
+Leukemia,Swollen lymph nodes,Ophthalmologist,Dr. Lalit Verma," Centre for Sight Eye Hospital, Sector 29, Gurgaon",35,9
+Leukemia,Easy bleeding,Urologist,Dr. Anant Kumar,", Urologist and Renal Transplant Specialist",29,7
+Leukemia,Rash(a lot of small red spots on the skin),Neurologist,Dr. Mayank Chawla," Max Super Specialty Hospital, Gurgaon",40,8
+Leukemia,Joint pain,Urologist,Dr. H. S. Bhatyal,", Urologist and Renal Transplant Specialist",50,10
+Leukemia,Sweating,Gynaecologist and Obstetrician,Dr. Kumkum Vatsa," Fortis Memorial Research Institute, Gurgaon",34,7
+Alzheimer's disease,Depression,Surgical Oncologist,Dr. PL Kariholu," Sharda Hospital, Greater Noida",35,7
+Alzheimer's disease,Social withdrawal,Spine Surgeon,Dr. Sajan K Hegde," Apollo Hospitals, Greams Road, Chennai",33,3
+Alzheimer's disease,Mood swings(change of mood),Pulmonologist,Dr. (Brig) Ashok K. Rajput," Artemis Hospital, Gurgaon",37,2
+Alzheimer's disease,Distrust in others,Pediatric Gastroenterologist,Dr. Neelam Mohan," Medanta - The Medicity, Gurgaon",34,2
+Alzheimer's disease,Irritation,General Surgeon,Dr. K.N. Srivastava," BLK Super Speciality Hospital, New Delhi",42,3
+Alzheimer's disease,Aggressiveness,physician,Dr. P.K.D. Shah," Artemis Hospital, Gurgaon",55,2
+Alzheimer's disease,Changes in sleeping habits,Orthopaedic and Joint Replacement Surgeon,Dr P.K Dave ,Knee Surgery,55,5
+Alzheimer's disease,Loss of inhibitions,Radiation Oncologist,Dr. Subodh Chandra Pande," Artemis Hospital, Gurgaon",33,2
+Alzheimer's disease,Delusions(belief in something that is not true),Spine Surgeon,Dr. H. S. Chhabra," Indian Spinal Injuries Center, New Delhi",25,4
+Asthma,Shortness of breath,Surgical Oncologist,Dr. Sabyasachi bal," Sir Ganga Ram Hospital, New Delhi",34,5
+Asthma,Chest pain,Cardiac Surgeon,Dr Manoj P Nair , Aster Medcity Kochi,46,7
+Asthma,Trouble in sleeping ,Urologist,Dr. Sivaraman Balakrishnan,", Urologist and Renal Transplant Specialist",43,9
+Asthma,Wheezing(whistling sound during breathing),Pulmonologist,Dr. Raj B Singh," Apollo Hospitals, Greams Road, Chennai",37,1
+Asthma,Coughing up blood,Rheumatologist,Dr. Ramakrishnan S," Apollo Hospitals, Greams Road, Chennai",38,2
+Asthma,Difficulty breathing or rapid breathing,Pediatric Cardiologist,Dr.Gaurav Kumar," Fortis Escorts Heart Institute, New Delhi",50,8
+Hemophilia,Unexplained and excessive bleeding from injuries,Paediatrician,Dr Arvind Sabharwal ," Sharda Hospital, Greater Noida",30,2
+Hemophilia,Unusual bleeding after vaccinations,Interventional Cardiologist,Dr. Jagdish Chander Mohan," Fortis Hospital, Shalimar Bagh, New Delhi",35,7
+Hemophilia,Nosebleeds without a known cause,IVF Specialist,Dr. Nandita P. Palshetkar," Indraprastha Apollo Hospital, New Delhi",32,9
+Hemophilia,In infants-unexplained irritability,Cardiac Surgeon,Dr. Veenu Kaul Aima,Urologist and Renal Transplant Specialist,25,5
+Hemophilia,Blood in your urine or stool,Interventional Cardiologist,Dr. Ajay Mittal," Max Super Speciality hospital, Patparganj, New Delhi",28,3
+Hemophilia,Joint pain,Pediatric Cardiologist,Dr Suresh Rao ," Kokilaben Dhirubhai Ambani Hospital, Mumbai",29,2
+Hemophilia,Many large or deep bruises,Neurosurgeon,Dr. Balamurugan M," Apollo Hospitals, Greams Road, Chennai",40,10
+Hemophilia,Double vision,Ophthalmologist,Dr. Viswanathan P,Oculoplasty Specialist,34,2
